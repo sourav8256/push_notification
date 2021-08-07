@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "314206814435",
+    "firebase_url": "https://trickezy-database-default-rtdb.firebaseio.com",
+    "project_id": "trickezy-database",
+    "storage_bucket": "trickezy-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314206814435:android:2fad02c96f1aba944e05d6",
+        "android_client_info": {
+          "package_name": "com.easyapproach.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314206814435-pjtisvmgkn775l82o8ot3s8ddg5771nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTqsU8thyQbT0KC9NloNgzCT0PclEQEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314206814435-pjtisvmgkn775l82o8ot3s8ddg5771nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314206814435:android:f71f8a8e854f7f4b4e05d6",
+        "android_client_info": {
+          "package_name": "com.example.trickezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314206814435-ndkejeu4gfo9nmigj929td9afo9af28f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trickezy",
+            "certificate_hash": "46828caab2bea584008b116ca614d0611f86689d"
+          }
+        },
+        {
+          "client_id": "314206814435-pjtisvmgkn775l82o8ot3s8ddg5771nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTqsU8thyQbT0KC9NloNgzCT0PclEQEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314206814435-pjtisvmgkn775l82o8ot3s8ddg5771nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314206814435:android:4e0744066eea70e74e05d6",
+        "android_client_info": {
+          "package_name": "com.trickezy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314206814435-pjtisvmgkn775l82o8ot3s8ddg5771nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTqsU8thyQbT0KC9NloNgzCT0PclEQEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314206814435-pjtisvmgkn775l82o8ot3s8ddg5771nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
